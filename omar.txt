@@ -6,6 +6,8 @@ int main()
 {
 
   
-    cout << "Hello mefo!\n";
+
+    cout << "Hello mefo2!\n";
+
 
 }

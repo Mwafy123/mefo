@@ -6,6 +6,6 @@ int main()
 {
 
   
-    cout << "Hello omar!\n";
+    cout << "Hello omar2!\n";
 
 }
